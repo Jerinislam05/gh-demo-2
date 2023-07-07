@@ -1,5 +1,22 @@
+div{
+    color: brown;
+}
 img{
-    width: 500px;
-    height: 500px;
-    object-fit: cover;
+    width: 200px;
+    height: 200px;
+    position: initial;
+}
+.color{
+    background-color: darkgreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    text-align: center;
+}
+#list{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+*{
+    margin: 2px solid rgb(206, 33, 33);
+    padding-top: 5px;
+    background-color: aliceblue;
 }
